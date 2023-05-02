@@ -8,7 +8,7 @@ public class tempratureconversion {
 		Scanner scan = new Scanner(System.in);
 		int c = scan.nextInt();
 		
-		float f = c*9/5+32;
+		float f = c*9/5+32;//check
 				System.out.println(f);
 	}
 
